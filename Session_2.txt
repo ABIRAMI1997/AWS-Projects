@@ -1,0 +1,16 @@
+AWS
+
+Data store management
+Project 11: 
+Create a DynamoDB table and perform various table operations using NoSQL Workbench
+https://medium.com/@ratulsaha/how-to-model-amazon-dynamodb-databases-with-nosql-workbench-bdb1bdbb6fcc
+https://aws.amazon.com/blogs/database/data-modeling-with-nosql-workbench-for-amazon-dynamodb/
+
+Project 12:
+Query items in DynamoDB with PartiQL Statements
+
+Project 13:
+Comparing Data Transfer Speeds with S3 Transfer Acceleration
+
+Project 14:
+
