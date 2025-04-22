@@ -1,0 +1,49 @@
+AWS
+
+Project 1 : Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent
+Build a Real Time Data Streaming System with Amazon Kinesis Data Streams | by Kevin Kiruri | Medium
+
+Project 2: 
+Real-time Data Processing with AWS DynamoDB Streams and Lambda: A Beginner’s Guide | by Mahtab Haider | Medium
+
+DynamoDB Streams — Using AWS Lambda to Process DynamoDB Streams for Change Data Capture | by Mehmet Ozkaya | AWS Lambda & Serverless — Developer Guide with Hands-on Labs | Medium
+
+Project 3:
+Stateful and Stateless AWS Traffic Handling | by Min_Minu | Medium
+
+Project 4:
+
+Migrating PostgreSQL databases using AWS DMS | by Vineet Naik | helpshift-engineering | Medium
+Migrate a DB to RDS using AWS Database Migration Service (DMS)
+
+Project 5:
+Perform ETL operation in Glue with S3 Bucket | by Ruchir B Pandya | Medium
+
+Project 6:
+https://medium.com/@neslihannavsar/streaming-data-from-amazon-kinesis-data-streams-to-s3-using-firehose-35c0b50449b7
+
+Project 7:
+Beginner Guide to AWS Step Functions | by Abdul Sami | Medium
+
+AWS Step Functions. 1. AWS Step Functions | by Prabhu Selvaraj | Xebia Engineering Blog | Medium
+
+Efficient Workflow : Leveraging AWS Step Functions for Dynamic State-based Processes | by Nipulpatel | Medium
+
+Project 8:
+Creating and Subscribing to SNS Topics and Adding SNS event for S3 bucket | by Ernestosafo | Medium
+
+Project 9:
+
+Event-Driven File Processing with AWS S3, SQS and Lambda | by Olga Shabalina | Medium
+
+Project 10:
+
+Deploying a Hello World application in AWS | by Thathsara Hewage | Medium
+
+
+
+
+
+
+
+
