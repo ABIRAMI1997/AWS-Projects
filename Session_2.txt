@@ -13,4 +13,14 @@ Project 13:
 Comparing Data Transfer Speeds with S3 Transfer Acceleration
 
 Project 14:
+https://bluexp.netapp.com/blog/aws-cvo-blg-s3-lifecycle-rules-using-bucket-lifecycle-configurations
+
+Project 15:
+Setup Cross Region Replication and Versioning in S3
+https://medium.com/@bubu.tripathy/aws-s3-cross-region-replication-3c70d62612ac
+
+Project 16:
+Introduction to DocumentDB and CRUD Operations
+https://medium.com/@christopheradamson253/getting-started-with-amazon-documentdb-f9181a43aad5
+
 
