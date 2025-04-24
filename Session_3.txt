@@ -1,0 +1,24 @@
+AWS:
+Data Operations and support
+
+Project 17:
+https://medium.com/@jkenny1930/create-a-serverless-workflow-with-aws-step-functions-and-aws-lambda-238171d5e833
+https://www.playingaws.com/
+https://medium.com/@U_N_R_3_A_L/aws-step-functions-automating-serverless-workflows-with-ease-63357d836140
+
+Project 18:
+Querying Data in S3 with Amazon Athena
+https://medium.com/@rplearn06/querying-data-in-s3-with-amazon-athena-5e11bb33d20a
+
+Project 19:
+Automating EBS Snapshot Creation Using CloudWatch and SNS
+https://nipulpatel1908.medium.com/automating-ebs-snapshots-with-amazon-eventbridge-and-amazon-sns-416f2c0cbcaa
+
+Project 20:
+Creating Cloudwatch Logs for SQS by triggering Lambda function
+https://codestax.medium.com/aws-lambda-with-sqs-setup-sqs-trigger-to-lambda-38d879b3d0d3
+
+
+
+
+
