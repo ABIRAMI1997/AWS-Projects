@@ -1,0 +1,33 @@
+AWS
+
+Project 21:
+Using CloudWatch for Resource Monitoring, Create CloudWatch Alarms and Dashboards
+https://medium.com/@aslam.muhammedclt/a-step-by-step-guide-to-setting-up-cloudwatch-alarms-for-aws-monitoring-66877304fafb
+
+Project 22:
+Creating IAM Roles
+https://medium.com/@favboladale/step-by-step-guide-how-to-create-iam-roles-in-aws-1652ccdee867
+
+Project 23:
+How to implement end to end VPC Endpoint service
+https://www.whizlabs.com/labs/how-to-implement-end-to-end-vpc-endpoint-service/
+
+Project 24:
+How to retrieve secrets stored in AWS Secrets Manager with AWS Lambda
+https://medium.com/@midejoseph24/how-to-access-api-keys-db-credentials-from-aws-secrets-manager-in-aws-lambda-646d08998d2d
+
+Project 25:
+Creating IAM Policies
+https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
+https://awspolicygen.s3.amazonaws.com/policygen.html
+
+Project 26:
+Encryption and Decryption Using KMS
+https://medium.com/@rohnux_26/encryption-of-data-using-aws-kms-b9f71f77696c
+
+Project 27:
+AWS Access control alerts with CloudWatch and CloudTrail
+https://medium.com/@rplearn06/aws-access-control-alerts-with-cloudwatch-and-cloudtrail-dae5b7dd2084
+
+
+
